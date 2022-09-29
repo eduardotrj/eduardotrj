@@ -3,6 +3,11 @@
 <a title="Twitter" href="https://twitter.com/Eduardo_Tr_Dev">
        <img src="https://img.shields.io/badge/twitter-bdlukaadev-blue?style=flat-square&color=7A7574&labelColor=0078D7">
 </a>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotrj&theme=dark&layout=compact" /><img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardotrj&show_icons=true&theme=dark" />
+</div>
+
 <!--
 **eduardotrj/eduardotrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-<div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotrj&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardotrj&show_icons=true&theme=dark" />
-</div>
