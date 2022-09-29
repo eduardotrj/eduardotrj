@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a title="Twitter" href="https://twitter.com/Eduardo_Tr_Dev">
-       <img src="https://img.shields.io/badge/twitter-bdlukaadev-blue?style=flat-square&color=7A7574&labelColor=0078D7">
-</a>
+
 
 <div align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotrj&theme=dark&layout=compact" /><img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardotrj&show_icons=true&theme=dark" />
